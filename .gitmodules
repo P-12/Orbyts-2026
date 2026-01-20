@@ -1,0 +1,6 @@
+[submodule "python-tutorial-WEW2025"]
+	path = python-tutorial-WEW2025
+	url = https://github.com/henry-ald/python-tutorial-WEW2025.git
+[submodule "python-tutorial"]
+	path = python-tutorial
+	url = git@github.com:P-12/python-tutorial.git
